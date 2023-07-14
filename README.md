@@ -8,6 +8,6 @@
   6.BONGAR KOBRO AUBERT
   7. NÉNODJI EUGÉNIE MBAÏKOUA 
 
-  Bonsoir les amis j'espere que vous aller. Essayez de vous donnez pour ce projet en lui ameliorant pour realiser une bonne formulaire. Merci!
+  Bonsoir les amis j'espère que vous aller bien. Essayez de vous donnez à fond pour ce projet en l'ameliorant pour réaliser un bon formulaire. Merci!!!
   
-  voici la description de notre projet: le but requit pour ce projet est de remplir un formulaire permettant d'entrer les renseignants suivants:nom,prenom,email et un mot de passe et une option pour confirmer le mot de passe entrer apres quoi appuyer sur un boutton envoyer les informations ainsi entrer seront transferees pour l'enregistrement.
+  voici la description de notre projet: le but requit pour ce projet est de remplir un formulaire permettant d'entrer les renseignements suivants:nom,prenom,email , un mot de passe , âge et sexe et une option pour confirmer le mot de passe entrer après quoi appuyer sur un boutton envoyer les informations ainsi entrer seront transférées pour l'enregistrement.
